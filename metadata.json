@@ -1,0 +1,6 @@
+{
+  "name": "Card Auction Web",
+  "description": "A responsive design for a card auction platform with login, home, participate, and profile views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
